@@ -1,0 +1,5 @@
+#install all the intel modules.
+#Name of our website is AR SKYTALKER.
+#Run deone1.html to have a look at the AR model of drone and our website.
+#Click on the box image on the website to view the drone in real space.
+#Run the ARdrone.ipynb file for the chatbot. (Key was created and run on VM)
